@@ -1,0 +1,2 @@
+# Vanilla JS Counter App
+
